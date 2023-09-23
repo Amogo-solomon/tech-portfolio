@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tech-portfolio/static/css/main.6e2518f6.css",
+    "main.js": "/tech-portfolio/static/js/main.41ec9a61.js",
+    "static/media/home-bg.png": "/tech-portfolio/static/media/home-bg.62a287a4c574f4cefae5.png",
+    "static/media/testimonials-bg.png": "/tech-portfolio/static/media/testimonials-bg.ec360b89e4cb398056f7.png",
+    "static/media/some-facts-bg.png": "/tech-portfolio/static/media/some-facts-bg.1be1e9076a91e1574153.png",
+    "static/media/logo1.png": "/tech-portfolio/static/media/logo1.ce4a2ce9bad6c26669d9.png",
+    "static/media/slick.svg": "/tech-portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/tech-portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/tech-portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/tech-portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/tech-portfolio/index.html",
+    "main.6e2518f6.css.map": "/tech-portfolio/static/css/main.6e2518f6.css.map",
+    "main.41ec9a61.js.map": "/tech-portfolio/static/js/main.41ec9a61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e2518f6.css",
+    "static/js/main.41ec9a61.js"
+  ]
+}
